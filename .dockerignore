@@ -1,0 +1,25 @@
+# Git files
+.git
+.gitignore
+.gitattributes
+
+# Maven
+.mvn
+mvnw
+mvnw.cmd
+target/*.jar.original
+
+# IDE
+.idea
+.vscode
+*.iml
+
+# Documentation
+README.md
+*.md
+
+# CI/CD
+Jenkinsfile
+
+# Logs
+*.log
